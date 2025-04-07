@@ -1,4 +1,4 @@
-# Habitly
+# Habitly 
 
 <div align="center" style="padding: 20px;">
   <img src="readmeImages/flutter-offline-first.webp" alt="Made with Flutter" style="max-width: 100%; padding: 20px; border-radius: 20px;" />
@@ -22,7 +22,10 @@
 
 ### 👨‍💻 Developed by
 
-[**@your-username**](https://github.com/Dada6x)
+[**@Dada6x**](https://github.com/Dada6x)
+abd alrazaq 
+ward ekhtiar
+
 
 ---
 
