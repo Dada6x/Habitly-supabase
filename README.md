@@ -23,8 +23,7 @@
 ### 👨‍💻 Developed by
 
 [**@Dada6x**](https://github.com/Dada6x)
-abd alrazaq 
-ward ekhtiar
+
 
 
 ---
