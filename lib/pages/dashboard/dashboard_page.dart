@@ -1,9 +1,9 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:monumental_habits/pages/dashboard/habit_table.dart';
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
+import 'package:habitlly/pages/dashboard/habit_table.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({super.key});

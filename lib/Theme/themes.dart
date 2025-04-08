@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:monumental_habits/util/helper.dart';
+import 'package:habitlly/util/helper.dart';
 
 class Themes {
   final ThemeData lightMode = ThemeData(

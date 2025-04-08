@@ -1,31 +1,16 @@
-# Habitly 
+# habitlly
 
-<div align="center" style="padding: 20px;">
-  <img src="readmeImages/flutter-offline-first.webp" alt="Made with Flutter" style="max-width: 100%; padding: 20px; border-radius: 20px;" />
-</div>
+A new Flutter project.
 
-## 🌱 About Habitly
+## Getting Started
 
-**Habitly** is a powerful and flexible habit tracker designed to help you build and maintain positive routines with ease. Whether you're working on daily wellness, productivity, fitness, or mindfulness goals, Habitly provides the tools you need to stay consistent and motivated.
+This project is a starting point for a Flutter application.
 
-### ✨ Key Features
+A few resources to get you started if this is your first Flutter project:
 
-- 🗓️ **Custom Habit Creation** – Set habits with flexible schedules.
-- 🔔 **Smart Reminders** – Never forget a task with intelligent notifications.
-- 📊 **Detailed Analytics** – Track your progress with insightful charts and streaks.
-- 📶 **Offline-First** – Use it anywhere, anytime – even without an internet connection.
-- ☁️ **Cloud Sync** – Keep your data backed up and accessible across devices.
-- 🎯 **Goal Setting & Motivation** – Earn rewards and track milestones.
-- 🛠️ **Modern UI with Flutter** – Clean, responsive interface made with Flutter.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-### 👨‍💻 Developed by
-
-[**@Dada6x**](https://github.com/Dada6x)
-
-
-
----
-
-Start building better habits today with **Habitly**!
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

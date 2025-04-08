@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:monumental_habits/pages/dashboard/controllers/habitcontroller.dart';
-import 'package:monumental_habits/pages/dashboard/calander.dart';
-import 'package:monumental_habits/pages/dashboard/editHabit.dart';
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
-import 'package:monumental_habits/widgets/Buttons.dart';
+import 'package:habitlly/pages/dashboard/controllers/habitcontroller.dart';
+import 'package:habitlly/pages/dashboard/calander.dart';
+import 'package:habitlly/pages/dashboard/editHabit.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
+import 'package:habitlly/widgets/Buttons.dart';
 
 class HabitInfoPage extends StatelessWidget {
   // ignore: prefer_typing_uninitialized_variables

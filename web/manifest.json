@@ -1,6 +1,6 @@
 {
-    "name": "monumental_habits",
-    "short_name": "monumental_habits",
+    "name": "habitlly",
+    "short_name": "habitlly",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

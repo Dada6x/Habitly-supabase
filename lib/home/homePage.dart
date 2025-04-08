@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:monumental_habits/Theme/themes.dart';
-import 'package:monumental_habits/home/controllers/navigationcontroller.dart';
-import 'package:monumental_habits/notifications/notifications_service.dart';
-import 'package:monumental_habits/pages/dashboard/controllers/habitcontroller.dart';
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
+import 'package:habitlly/Theme/themes.dart';
+import 'package:habitlly/home/controllers/navigationcontroller.dart';
+import 'package:habitlly/notifications/notifications_service.dart';
+import 'package:habitlly/pages/dashboard/controllers/habitcontroller.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
 
 // ignore: must_be_immutable
 class HomePage extends StatelessWidget {

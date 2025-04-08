@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
 import 'package:table_calendar/table_calendar.dart';
 
 class HabitCalendar extends StatefulWidget {

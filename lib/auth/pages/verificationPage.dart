@@ -4,10 +4,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:flutter_verification_code/flutter_verification_code.dart';
 
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
-import 'package:monumental_habits/widgets/Buttons.dart';
-import 'package:monumental_habits/widgets/text_fields.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
+import 'package:habitlly/widgets/Buttons.dart';
+import 'package:habitlly/widgets/text_fields.dart';
 
 class VerificationPage extends StatefulWidget {
   const VerificationPage({super.key});

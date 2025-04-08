@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:monumental_habits/auth/pages/forgetPassword.dart';
-import 'package:monumental_habits/home/homePage.dart';
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
-import 'package:monumental_habits/widgets/Buttons.dart';
-import 'package:monumental_habits/widgets/text_fields.dart';
+import 'package:habitlly/auth/pages/forgetPassword.dart';
+import 'package:habitlly/home/homePage.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
+import 'package:habitlly/widgets/Buttons.dart';
+import 'package:habitlly/widgets/text_fields.dart';
 
 // ignore: must_be_immutable
 class LoginForm extends StatelessWidget {

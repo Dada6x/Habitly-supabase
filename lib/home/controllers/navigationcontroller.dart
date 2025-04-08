@@ -1,11 +1,11 @@
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
-import 'package:monumental_habits/pages/community/community.dart';
-import 'package:monumental_habits/pages/dashboard/dashboard_page.dart';
+import 'package:habitlly/pages/community/community.dart';
+import 'package:habitlly/pages/dashboard/dashboard_page.dart';
 
-import 'package:monumental_habits/pages/dashboard/new_habit_page.dart';
-import 'package:monumental_habits/pages/maps/maps.dart';
-import 'package:monumental_habits/pages/settings_profile/settings.dart';
+import 'package:habitlly/pages/dashboard/new_habit_page.dart';
+import 'package:habitlly/pages/maps/maps.dart';
+import 'package:habitlly/pages/settings_profile/settings.dart';
 
 class NavigationController extends GetxController {
   var currentIndex = 0.obs;

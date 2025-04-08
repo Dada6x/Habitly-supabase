@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
-import 'package:monumental_habits/pages/dashboard/controllers/habitcontroller.dart';
-import 'package:monumental_habits/pages/dashboard/habit_Info.dart';
-import 'package:monumental_habits/util/helper.dart';
-import 'package:monumental_habits/util/sizedconfig.dart';
+import 'package:habitlly/pages/dashboard/controllers/habitcontroller.dart';
+import 'package:habitlly/pages/dashboard/habit_Info.dart';
+import 'package:habitlly/util/helper.dart';
+import 'package:habitlly/util/sizedconfig.dart';
 
 class HabitTable extends StatelessWidget {
   final HabitController habitController = Get.find<HabitController>();

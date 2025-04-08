@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:monumental_habits/auth/pages/SIgnupForm.dart';
-import 'package:monumental_habits/auth/pages/loginform.dart';
-import 'package:monumental_habits/util/helper.dart';
+import 'package:habitlly/auth/pages/SIgnupForm.dart';
+import 'package:habitlly/auth/pages/loginform.dart';
+import 'package:habitlly/util/helper.dart';
 
-import 'package:monumental_habits/widgets/animationbutton.dart';
-import 'package:monumental_habits/widgets/blureelement.dart';
+import 'package:habitlly/widgets/animationbutton.dart';
+import 'package:habitlly/widgets/blureelement.dart';
 
 class Auth extends StatefulWidget {
   const Auth({super.key});

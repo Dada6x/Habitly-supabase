@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:monumental_habits/notifications/notifications_service.dart';
-import 'package:monumental_habits/pages/dashboard/model/habit_model.dart';
+import 'package:habitlly/notifications/notifications_service.dart';
+import 'package:habitlly/pages/dashboard/model/habit_model.dart';
 import 'package:uuid/uuid.dart';
 
 class HabitController extends GetxController {
